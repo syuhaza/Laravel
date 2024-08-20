@@ -1,0 +1,1 @@
+<p class="mt-5 mb-3 text-muted">&copy; <?php echo e(date('F Y')); ?></p><?php /**PATH C:\Users\Win10\Desktop\Intern\ALaravel\system-inventory\resources\views/auth/partials/copy.blade.php ENDPATH**/ ?>
